@@ -31,9 +31,29 @@ div h2, div h3{
     color: #ff0000;
 }
 
-*/
-
 
 .color{
-    color:rgb(255,0,0)
+    color:rgb(0,0,0)
+}
+
+
+*/
+
+.color{
+    border: 5px red outset;
+    /*
+        dotted
+        dashed
+        solid
+        double
+        
+        groove
+        ridge
+        inset
+        outset
+
+        none
+        hidden
+
+    */
 }
