@@ -67,3 +67,15 @@ div h2, div h3{
         rem: 2 veces al tamano de la fuente raiz (html), por defecto 16px es el tamanio de la fuente. 
         */
 }
+
+#fondo{
+    /* background-color: rgba(255, 0, 0); */
+    /* opacity: 0.3; */
+    /* height: 400px;
+    background-image: url('./pikachu.png');
+ 
+    background-repeat: repeat-y;
+    background-position: center bottom; */
+    background: #f00 url('coffe.png') repeat-x center bottom / 400px 400px;
+    /* background-size: 100px 100px; */
+}
