@@ -60,5 +60,10 @@ div h2, div h3{
     border-style: solid;
     border-color: blue;
     border-radius: 5px;
-    border-width: 5px;
+    border-width: 2em;
+
+    /*MEDIDAS: 
+        em: 2 veces el tamano de la fuente utilizada actualmente
+        rem: 2 veces al tamano de la fuente raiz (html), por defecto 16px es el tamanio de la fuente. 
+        */
 }
