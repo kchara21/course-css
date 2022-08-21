@@ -121,3 +121,29 @@ ul{
     /* list-style-position: inside; */
     
 }
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,td{
+    border: solid 1px #eee;
+    padding: 5px;
+}
+
+th{
+    background-color: tomato;
+    color: white;
+    text-align: left;
+}
+
+tr:nth-child(even){
+    background-color: #eee;
+}
+
+tr:hover{
+    background-color: #aaa;
+    cursor: pointer;
+}
+
