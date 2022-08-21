@@ -91,7 +91,7 @@ div h2, div h3{
     outline: 1px solid red;
 }
 
-.texto{
+.text{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     text-decoration: underline;
@@ -112,4 +112,12 @@ a:hover{
 
 a:active{
     color: red;
+}
+
+ul{
+    background-color: cyan;
+    list-style-type: circle;
+    /* padding-left: 0; */
+    /* list-style-position: inside; */
+    
 }
